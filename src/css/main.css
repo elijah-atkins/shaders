@@ -1,0 +1,15 @@
+/* https://transfonter.org */
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: url('../fonts/Gilroy-Medium.woff2') format('woff2');
+}
+body{
+    background-color: #040754;
+}
+li {
+    display: inline;
+    margin: 12px;
+}
+a, h1{
+    font-family: 'Gilroy-Medium';
+}
